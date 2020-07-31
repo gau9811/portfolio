@@ -1,4 +1,5 @@
 {
-  "githubClientId": "28ef0d31b8fc6060b001",
-  "githubSecret": "609617855f12b750a06c0c0c65e909e8bbe5e44d"
+  "githubClientId":"github",
+  "githubSecret":"secret"
 }
+
